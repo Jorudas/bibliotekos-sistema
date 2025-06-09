@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "pavadinimas": "Ana Karenina",
+        "autorius": "Lev Tolstojus",
+        "leidimo_metai": 1877,
+        "kiekis": 3,
+        "zanras": "Romanas"
+    },
+    {
+        "id": 2,
+        "pavadinimas": "Dune",
+        "autorius": "Frank Herbert",
+        "leidimo_metai": 1965,
+        "kiekis": 5,
+        "zanras": "Fantastika"
+    },
+    {
+        "id": 3,
+        "pavadinimas": "Šerlokas Holmsas: Baskervilių šuo",
+        "autorius": "Arthur Conan Doyle",
+        "leidimo_metai": 1965,
+        "kiekis": 5,
+        "zanras": "Fantastika"
+    },
+    {
+        "id": 4,
+        "pavadinimas": "Tavo pasąmonės galia",
+        "autorius": "Joseph Murphy",
+        "leidimo_metai": 1963,
+        "kiekis": 4,
+        "zanras": "Saviugda"
+    },
+    {
+        "id": 5,
+        "pavadinimas": "Šuo ir Vilkas",
+        "autorius": "Antanas Jonaitis",
+        "leidimo_metai": 1999,
+        "kiekis": 3,
+        "zanras": "Komedija"
+    }
+]
